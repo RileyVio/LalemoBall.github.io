@@ -1,2 +1,2 @@
-# LalemoBall.github.io
+# LameloBall.github.io
 Lamelo Glaze Page
